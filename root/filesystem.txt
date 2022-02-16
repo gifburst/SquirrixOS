@@ -1,0 +1,60 @@
+The new version of this shell
+
+
+
+implements a virtual file system.
+
+
+
+FileSystem.fs(v2.1)
+
+
+
+
+
+
+
+Want to swap your workspace
+
+
+
+with someone elses?
+
+
+
+
+
+
+
+Just replace the FileSystem.fs file
+
+
+
+with the required one, and boot
+
+
+
+up the system! and your done!!
+
+
+
+
+
+
+
+The name has to be FileSystem.fs
+
+
+
+for it to work for now...
+
+
+
+
+
+
+
+Bye!
+
+
+
